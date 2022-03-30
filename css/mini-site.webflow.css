@@ -1601,6 +1601,7 @@ html.w-mod-js *[data-ix="display-none-on-load"] {
   }
   .banner-title {
     text-align: center;
+    margin-top: 200px;
   }
   .heading {
     display: block;
