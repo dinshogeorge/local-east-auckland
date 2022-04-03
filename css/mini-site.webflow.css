@@ -1532,7 +1532,7 @@ html.w-mod-js *[data-ix="display-none-on-load"] {
     font-size: 24px;
   }
   .section {
-    padding-top: 10px;
+    padding-top: 120px;
   }
   .appointment-wrapper {
     padding-right: 0px;
@@ -1545,6 +1545,11 @@ html.w-mod-js *[data-ix="display-none-on-load"] {
     height: 1300px;
     max-height: 1300px;
   } */
+
+  .left-wrapper {
+    margin-top: 80px;
+  }
+
   .left-wrapper.photo {
     height: 400px;
     max-height: 400px;
