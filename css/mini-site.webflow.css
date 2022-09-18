@@ -1524,8 +1524,8 @@ html.w-mod-js *[data-ix="display-none-on-load"] {
 
 @media (max-width: 479px) {
   .banner {
-    height: 500px;
-    background-position: 0px 0px, 44% 0px;
+    height: 355px;
+    background-position: 0px 0px, 48% 82px;
   }
   .top-text.in-footer {
     margin-top: 25px;
