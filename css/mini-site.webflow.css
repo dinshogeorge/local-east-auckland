@@ -1360,8 +1360,8 @@ html.w-mod-js *[data-ix="display-none-on-load"] {
 
 @media (min-width: 1400px) {
   .banner {
-    height: 850px;
-    background-position: 0px 0px, 50% 12px;
+    height: 740px;
+    background-position: 0px 0px, 50% 145px;
   }
 }
 
